@@ -1,4 +1,4 @@
-import requests
+import request
 
 APP_ACCESS_TOKEN = '5693142402.e0dc839.0b42eb38f2ae433abb97322121078d93'
 #Token Owner : AVinstaBot.main
